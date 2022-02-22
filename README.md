@@ -8,5 +8,5 @@ Java 11 (stream)
 
 ## Utilizzo
 
-``` java CifrarioMain "testo in chiaro" 3
+> java CifrarioMain "testo in chiaro" 3
 
